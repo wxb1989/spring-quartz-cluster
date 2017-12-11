@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 /**
- * author : fengjing
+ * author : edsion
  * createTime : 2016-08-04
  * description : 定时任务初始化
  * version : 1.0

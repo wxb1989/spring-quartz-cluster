@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.scheduling.quartz.QuartzJobBean;
 
 /**
- * author : fengjing
+ * author : edsion
  * createTime : 2016-08-04
  * description : 异步任务工厂
  * version : 1.0

@@ -3,7 +3,7 @@ package net.aimeizi.quartz.exceptions;
 import com.dexcoder.commons.exceptions.DexcoderException;
 
 /**
- * author : fengjing
+ * author : edsion
  * createTime : 2016-08-04
  * description : 定时任务自定义异常
  * version : 1.0

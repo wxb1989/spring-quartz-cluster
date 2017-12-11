@@ -5,7 +5,7 @@ import java.util.Date;
 import com.dexcoder.commons.pager.Pageable;
 
 /**
- * author : fengjing
+ * author : edsion
  * createTime : 2016-08-04
  * description : 计划任务模型
  * version : 1.0

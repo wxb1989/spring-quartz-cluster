@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * author : fengjing
+ * author : edsion
  * createTime : 2016-08-04
  * description : 定时任务服务实现
  * version : 1.0
@@ -33,6 +33,7 @@ public class ScheduleJobServiceImpl implements ScheduleJobService {
     /** 通用dao */
     @Autowired
     private JdbcDao jdbcDao;
+
 
     public void initScheduleJob() {
         List<ScheduleJob> scheduleJobList = jdbcDao.queryList(Criteria.select(ScheduleJob.class));

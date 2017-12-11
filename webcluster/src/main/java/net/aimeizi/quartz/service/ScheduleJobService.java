@@ -5,7 +5,7 @@ import java.util.List;
 import net.aimeizi.quartz.vo.ScheduleJobVo;
 
 /**
- * author : fengjing
+ * author : edsion
  * createTime : 2016-08-04
  * description : 定时任务服务
  * version : 1.0

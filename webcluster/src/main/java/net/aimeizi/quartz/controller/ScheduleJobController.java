@@ -13,7 +13,7 @@ import net.aimeizi.quartz.service.ScheduleJobService;
 import net.aimeizi.quartz.vo.ScheduleJobVo;
 
 /**
- * author : fengjing
+ * author : edsion
  * createTime : 2016-08-04
  * description : 定时任务控制器
  * version : 1.0
